@@ -1,1 +1,1 @@
-Deployed: https://thev.netlify.app/
+Demo: https://thev.netlify.app/
